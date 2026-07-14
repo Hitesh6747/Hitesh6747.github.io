@@ -4,12 +4,11 @@ This is my **first web development project** — a simple, professional "About M
 
 ## 🔗 Live Demo
 👉 [View Live Site](https://hitesh6747.github.io) 
-*(link will work once GitHub Pages is set up — see below)*
+
 
 ## 📸 Screenshot
 ![About Me Page Screenshot](screenshot.png)
 
-*(Replace `screenshot.png` above with your own screenshot — steps below.)*
 
 ## ✨ Features
 - Clean, resume-style design
