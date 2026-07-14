@@ -27,7 +27,7 @@ This is my **first web development project** — a simple, professional "About M
 
 ## 📬 Contact
 - GitHub: [@Hitesh6747](https://github.com/Hitesh6747)
-- Email: hiteshsharma8320@ggmail.com
+- Email: hiteshsharma8320@gmail.com
 
 ---
 ⭐ This is Project #1 in my web development journey — more coming soon!
